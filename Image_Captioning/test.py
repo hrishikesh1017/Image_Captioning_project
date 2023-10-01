@@ -35,7 +35,7 @@ def predict_step(image_paths):
 
 def main():
     
-    st.image("bionary banner.jpeg", use_column_width=False, output_format="JPEG", width=600)    
+        
     
     
     st.title("Image Captioning with Streamlit")
